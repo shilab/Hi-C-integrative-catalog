@@ -33,12 +33,5 @@ The v1 release of the compartment domains (under 100 kb) identified in this stud
 The v1 release of the loop domains (merged under 5 kb and 10 kb) identified in this study, a standard output format from Juicer software (http://aidenlab.org/juicer/)
 
 ### If you find these results useful in your research, please cite our work as:
-@article{li2023comprehensive,
-  title={A comprehensive catalog of 3D genome organization in diverse human genomes facilitates understanding of the impact of structural variation on chromatin structure},
-  author={Li, Chong and Bonder, Marc Jan and Syed, Sabriya and Human Genome Structural Variation Consortium (HGSVC) and HGSVC Functional Analysis Working Group and Zody, Michael C and Chaisson, Mark JP and Talkowski, Michael E and Marschall, Tobias and Korbel, Jan O and others},
-  journal={bioRxiv},
-  pages={2023--05},
-  year={2023},
-  publisher={Cold Spring Harbor Laboratory}
-}
+Li, C., Bonder, M. J., Syed, S., Human Genome Structural Variation Consortium (HGSVC), HGSVC Functional Analysis Working Group, Zody, M. C., ... & Shi, X. (2023). A comprehensive catalog of 3D genome organization in diverse human genomes facilitates understanding of the impact of structural variation on chromatin structure. bioRxiv, 2023-05. https://doi.org/10.1101/2023.05.15.540856
 
