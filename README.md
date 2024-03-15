@@ -18,7 +18,8 @@ The v1 release of the TAD-SV list identified in this study.\
 The v1 release of the TAD boundaries (under 5 kb) identified in this study.\
 --#Chr: Chromosome position associated with the TAD boundary.\
 --Bound_Start: Start position assocaited with the TAD boundary.\
---BOund_End: End position associated with the TAD boundary.
+--Bound_End: End position associated with the TAD boundary.\
+--Bound_Score: Boundary strength associated with the TAD boundary.
 
 ## All_Compartment_domain_v1.bed
 The v1 release of the compartment domains (under 100 kb) identified in this study.\
