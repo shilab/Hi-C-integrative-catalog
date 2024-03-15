@@ -1,5 +1,5 @@
 # Integrative TAD Catalog in LCLs
-The Integrative TAD Catalog (includes the TAD boundarieds, comparments, and loops) and the TAD-SVs identifiend from the study of *"An integrative TAD catalog in lymphoblastoid cell lines discloses the functional impact of deletions and insertions in human genomes."*.
+The Integrative TAD Catalog (includes the TAD boundaries, compartments, and loops) and the TAD-SVs identified from the study of *"An integrative TAD catalog in lymphoblastoid cell lines discloses the functional impact of deletions and insertions in human genomes."*.
 
 ## All_TAD_cutoff_v1.bed
 The v1 release of the TAD regions reported in the integrative TAD catalog.\
@@ -31,4 +31,14 @@ The v1 release of the compartment domains (under 100 kb) identified in this stud
 
 ## All_Loop_domains_v1.bed
 The v1 release of the loop domains (merged under 5 kb and 10 kb) identified in this study, a standard output format from Juicer software (http://aidenlab.org/juicer/)
+
+### If you find these results useful in your research, please cite our work as:
+@article{li2023comprehensive,
+  title={A comprehensive catalog of 3D genome organization in diverse human genomes facilitates understanding of the impact of structural variation on chromatin structure},
+  author={Li, Chong and Bonder, Marc Jan and Syed, Sabriya and Human Genome Structural Variation Consortium (HGSVC) and HGSVC Functional Analysis Working Group and Zody, Michael C and Chaisson, Mark JP and Talkowski, Michael E and Marschall, Tobias and Korbel, Jan O and others},
+  journal={bioRxiv},
+  pages={2023--05},
+  year={2023},
+  publisher={Cold Spring Harbor Laboratory}
+}
 
