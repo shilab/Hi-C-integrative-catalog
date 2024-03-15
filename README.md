@@ -5,3 +5,5 @@ This repository contains codes and processed files for the manuscript entitled *
   2. Comprehensive TAD catalog integration
   3. Quantification of SVs’ impact on 3D chromatin structure, gene expression, and splicing levels
   4. Replication of SVs’ impact on 3D chromatin structure
+
+### Please find the resource of our Integrative TAD Catalog in LCLs in this study at catalog feature: https://github.com/shilab/Hi-C-integrative-catalog/tree/catalog
