@@ -1,4 +1,6 @@
 # Hi-C-integrative-catalog
+![image](https://github.com/shilab/Hi-C-integrative-catalog/assets/49178072/f4cd1f15-a268-4cc7-9188-234d389fa88b)
+
 This repository contains codes and processed files for the manuscript entitled *"An integrative TAD catalog in lymphoblastoid cell lines discloses the functional impact of deletions and insertions in human genomes."*. Specifically, it includes the code scripts corresponding to the analyses of the main results listed below:
 
   1. TAD boundary calling by Insulation Score
