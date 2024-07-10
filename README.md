@@ -40,6 +40,8 @@ jupyter-lab
   :ballot_box_with_check: <code>*Replication_of_TAD-SV.ipynb*</code>: The codes for replication of the TAD-SV set in another independent dataset.  
   :ballot_box_with_check: <code>*permutation.sh*</code>: The bash script for permutation test to examine the enrichment/depletion between the interested regions in our study.
 
+The <code><b>data</code></b> folder contains the necessary datasets that are needed for running the main analyses included in our study (.ipynb notebook code under the code folder). A *README* file for the detailed description of each file can be found under the data folder.
+
 Please note that the scripts are specifically designed and organized for this study publication. All the input files and formats are specified in the scripts. Users are welcome to download and run the provided notebook scripts on their own machines to replicate our results. It is possible that the programs may not run on the user's device due to environmental differences or bugs. Therefore, to use the scripts with the user's own data, please consider this repository as an experimental notebook and update the respective directory paths and input files accordingly. 
 
 ## Contact
