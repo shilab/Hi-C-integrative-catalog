@@ -2,7 +2,7 @@
 ![image](https://github.com/shilab/Hi-C-integrative-catalog/assets/49178072/f4cd1f15-a268-4cc7-9188-234d389fa88b)
 
 This repository contains codes and processed files for the manuscript entitled *"An integrative TAD catalog in lymphoblastoid cell lines discloses the functional impact of deletions and insertions in human genomes."*. (https://www.biorxiv.org/content/10.1101/2023.05.15.540856v1)
-#### Please find the resource of our Integrative TAD Catalog in LCLs in this study at catalog feature: https://github.com/shilab/Hi-C-integrative-catalog/tree/catalog
+### Please find the resource of our Integrative TAD Catalog in LCLs in this study at catalog feature: https://github.com/shilab/Hi-C-integrative-catalog/tree/catalog
 
 ## Getting started
 Codes for the main analysis and visualization are provided under the <code><b>code</b></code> folder in IPython notebook files with instructions included in the markdown and heading text. All required input files can be found in the <code><b>data</b></code> folder. The <code><b>preprocess_data</b></code> folder contains the intermediate generated data during analyses.   
