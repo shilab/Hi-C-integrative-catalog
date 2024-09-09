@@ -15,7 +15,8 @@ A description for each file under the <code>data</code> folder:
 - <b>all_del/ins_eqtl/sqtl_boundary_qvalue.bed</b>: The summary statistics for all of the TAD-SV-QTL candidates.
 - <b>sig_del/ins_eqtl/sqtl.bed</b>: The complete TAD-SV-QTL set.
 - <b>all_del/ins_sqtl/sqtl_mediation.bed</b>: The summary statistics of the causal mediation analysis for the TAD-SV-QTL set.
-- <b>GRCh38-cCREs_auto.bed</b>: the Registry of cCREs V3 (all human cCRE, hg38, aotusome), which can also be downloaded from https://screen.encodeproject.org. 
+- <b>GRCh38-cCREs_auto.bed</b>: the Registry of cCREs V3 (all human cCRE, hg38, aotusome), which can also be downloaded from https://screen.encodeproject.org.
+- <b>encTfChipPkENCFF356LIU.txt.gz</b>: The hg38 transcription factor ChIP-seq peaks of CTCF in GM12878 from ENCODE 3.
 - <b>all_DEL/INS_boundary_3_sig_nodup_10kbflank_loc.bed</b>: the location information for the TAD-SV call set (chr, start, end, SV_ID). 
     
 The <code>sample_bound</code> subfolder contains the overlap TAD boundaries results for the 26 samples and 17 independent samples involved in the TAD-SV identification analysis and replication analysis (each was overlapped with the TAD boundaries for the merged Hi-C contact map (added +/- 10 kb flanking region)).
