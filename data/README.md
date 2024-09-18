@@ -12,6 +12,7 @@ A description for each file under the <code>data</code> folder:
 - <b>all_DEL/INS_boundary_3_sig_10kbflank.bed</b>: The complete TAD-SVs set.
 - <b>final_ALL_DEL/INS_merged_BS_flank_26sample_pvalue/qvalue_only01_fillna.bed</b>: The summary statistics for all of the SV candidates.
 - <b>final_homo_heter_TAD-DEL/INS_qvalue.bed</b>: The summary statistics for all of the homozygous and heterozygous TAD-SV candidates.
+- <b>qtl_results_all_v4/v2_fdr0.05.txt.gz</b>: The complete SV-eQTL/sQTL sets.
 - <b>all_del/ins_eqtl/sqtl_boundary_qvalue.bed</b>: The summary statistics for all of the TAD-SV-QTL candidates.
 - <b>sig_del/ins_eqtl/sqtl.bed</b>: The complete TAD-SV-QTL set.
 - <b>all_del/ins_sqtl/sqtl_mediation.bed</b>: The summary statistics of the causal mediation analysis for the TAD-SV-QTL set.
