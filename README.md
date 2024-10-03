@@ -55,4 +55,4 @@ We welcome your questions, suggestions, requests for additional information, or 
 
 ## References
 #### If you find our results useful in your research, please cite our work as:
-Li, C., Bonder, M. J., Syed, S., Human Genome Structural Variation Consortium (HGSVC), HGSVC Functional Analysis Working Group, Zody, M. C., ... & Shi, X. (2023). A comprehensive catalog of 3D genome organization in diverse human genomes facilitates understanding of the impact of structural variation on chromatin structure. bioRxiv, 2023-05. https://doi.org/10.1101/2023.05.15.540856
+Li, C., Bonder, M. J., Syed, S., Human Genome Structural Variation Consortium (HGSVC), HGSVC Functional Analysis Working Group, Zody, M. C., ... & Shi, X. (2023). A comprehensive catalog of 3D genome organization in diverse human genomes facilitates understanding of the impact of structural variation on chromatin structure. Genome Research, 2024-10. doi: 10.1101/gr.279419.124
