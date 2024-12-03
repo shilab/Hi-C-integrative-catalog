@@ -55,4 +55,4 @@ We welcome your questions, suggestions, requests for additional information, or 
 
 ## References
 #### If you find our results useful in your research, please cite our work as:
-Li, C., Bonder, M. J., Syed, S., Jensen, M., Human Genome Structural Variation Consortium (HGSVC), HGSVC Functional Analysis Working Group, Gerstein M. B., Zody, M. C., Chaisson, M. J.P., Talkowski, M. E., Marschall, T., Korbel, J. O., Eichler, E. E., Lee, C. & Shi, X. An integrative TAD catalog in lymphoblastoid cell lines discloses the functional impact of deletions and insertions in human genomes. Genome Research, 2024-10. doi: 10.1101/gr.279419.124
+Li, C., Bonder, M. J., Syed, S., Jensen, M., Human Genome Structural Variation Consortium (HGSVC), HGSVC Functional Analysis Working Group, Gerstein M. B., Zody, M. C., Chaisson, M. J.P., Talkowski, M. E., Marschall, T., Korbel, J. O., Eichler, E. E., Lee, C., & Shi, X. "An integrative TAD catalog in lymphoblastoid cell lines discloses the functional impact of deletions and insertions in human genomes." Genome Research, 2024-10. doi: 10.1101/gr.279419.124
