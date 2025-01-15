@@ -2,7 +2,7 @@
 ![image](https://github.com/user-attachments/assets/e783bc21-23d6-4806-8256-26a416885b58)
 
 
-This repository contains codes and processed files for the manuscript entitled *"An integrative TAD catalog in lymphoblastoid cell lines discloses the functional impact of deletions and insertions in human genomes."*. (https://www.biorxiv.org/content/10.1101/2023.05.15.540856v1)
+This repository contains codes and processed files for the manuscript entitled *"An integrative TAD catalog in lymphoblastoid cell lines discloses the functional impact of deletions and insertions in human genomes."*. (https://genome.cshlp.org/content/34/12/2304)
 
 :speaking_head: <b>Updates</b>: All of the processed .hic files for the samples included in our study have now been uploaded to the FTP server for free download. Please use the following link to access them, along with the readme and manifest files: http://ftp.1000genomes.ebi.ac.uk/vol1/ftp/data_collections/HGSVC2/working/20230515_Shi_hic_files/
 
