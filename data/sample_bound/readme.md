@@ -1,7 +1,7 @@
 The sampleID_BS_cutoff_inter30_10kb.boundaries_100kb.bed files include 10 columns:  
 col 1: The boundary chromosome number in the merged map  
 col 2: The boundary start position in the merged map  
-col 3: The boudnary end position in the merged map  
+col 3: The boundary end position in the merged map  
 col 4: The boundary score in the merged map  
 col 5: The boundary chromosome number in the sample map  
 col 6: The boundary start position in the sample map  
